@@ -1,6 +1,6 @@
 # english_tutor
 
-A new Flutter project.
+our new Flutter project.
 
 ## Getting Started
 
